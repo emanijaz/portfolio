@@ -4,8 +4,8 @@ module.exports = {
   siteMetadata: {
     title: 'Eman Ijaz',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Im a Computer Science graduate student at LUMS. E-learning , team work and problem solving are some of the areas where my passion lies. I am interested in AI/ML, Data Science, and Web development.',
+    siteUrl: 'https://linkedin.com/in/eman-ijaz', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
